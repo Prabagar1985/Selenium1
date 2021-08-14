@@ -1,0 +1,4 @@
+
+public interface Browser1 {
+
+}
